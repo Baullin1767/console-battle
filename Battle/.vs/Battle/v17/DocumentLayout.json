@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421#\\console-battle\\Battle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|d:\\\u0441#\\console-battle\\battle\\battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|solutionrelative:battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|d:\\\u0441#\\console-battle\\battle\\battle\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|solutionrelative:battle\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|d:\\\u0441#\\console-battle\\battle\\battle\\khight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|solutionrelative:battle\\khight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|d:\\\u0441#\\console-battle\\battle\\battle\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|solutionrelative:battle\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|d:\\\u0441#\\console-battle\\battle\\battle\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDB8F3F-A76C-47C1-ACE3-072F186F71CD}|Battle\\Battle.csproj|solutionrelative:battle\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Mage.cs",
+              "RelativeDocumentMoniker": "Battle\\Mage.cs",
+              "ToolTip": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Mage.cs",
+              "RelativeToolTip": "Battle\\Mage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:33:24.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Archer.cs",
+              "RelativeDocumentMoniker": "Battle\\Archer.cs",
+              "ToolTip": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Archer.cs",
+              "RelativeToolTip": "Battle\\Archer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:32:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Khight.cs",
+              "DocumentMoniker": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Khight.cs",
+              "RelativeDocumentMoniker": "Battle\\Khight.cs",
+              "ToolTip": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Khight.cs",
+              "RelativeToolTip": "Battle\\Khight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:31:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Warrior.cs",
+              "RelativeDocumentMoniker": "Battle\\Warrior.cs",
+              "ToolTip": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Warrior.cs",
+              "RelativeToolTip": "Battle\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:30:05.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Program.cs",
+              "RelativeDocumentMoniker": "Battle\\Program.cs",
+              "ToolTip": "D:\\\u0421#\\console-battle\\Battle\\Battle\\Program.cs",
+              "RelativeToolTip": "Battle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:23:09.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
