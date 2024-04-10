@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LeMvunEjBMJ1Ed0APwZDo3it/m7mPS+lAkcl/wIp758KhOfOQEKP/KBSwIR5UYIxGDuzkl1Alkmki/6/9rQAsg==",
+  "dgSpecHash": "iD5O1uEQMICwD1zuqpLJIGQuLN4akROxvyO3tIqOhhppR0w7TDZ3EXWdKIGnnZoITk/SYJ+S16Cpotu2OKnE1A==",
   "success": true,
-  "projectFilePath": "D:\\С#\\console-battle\\Battle\\Battle\\Battle.csproj",
+  "projectFilePath": "D:\\С#\\console-battle\\console-battle\\Battle\\Battle\\Battle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

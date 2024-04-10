@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\С#\\console-battle\\Battle\\Battle\\Battle.csproj",
+      "projectUniqueName": "D:\\С#\\console-battle\\console-battle\\Battle\\Battle\\Battle.csproj",
       "projectName": "Battle",
-      "projectPath": "D:\\С#\\console-battle\\Battle\\Battle\\Battle.csproj",
+      "projectPath": "D:\\С#\\console-battle\\console-battle\\Battle\\Battle\\Battle.csproj",
       "packagesPath": "C:\\Users\\alexs\\.nuget\\packages\\",
-      "outputPath": "D:\\С#\\console-battle\\Battle\\Battle\\obj\\",
+      "outputPath": "D:\\С#\\console-battle\\console-battle\\Battle\\Battle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
